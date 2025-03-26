@@ -11,7 +11,7 @@
 <h3 align="center"> Infrastructure </h3>
 <p align="center"> <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> </p>
 
-<h2 align="center">🎯 Projects & Achievements</h2>
+
 
 <br>
 <br>
