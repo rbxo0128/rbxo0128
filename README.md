@@ -7,7 +7,7 @@
 <h3 align="center"> Back-end </h3>
 <p align="center"> <img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"> </p>
 <h3 align="center"> Database </h3>
-<p align="center"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/supabase-4479A1.svg?&style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"> </p>
+<p align="center"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> ![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)   </p>
 <h3 align="center"> Infrastructure </h3>
 <p align="center"> <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> </p>
 
