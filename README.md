@@ -13,9 +13,14 @@
 
 <h2 align="center">🎯 Projects & Achievements</h2>
 
-# 🧳 <a href = "https://github.com/aiBE-chill-TEAM/travel-secretary/"> 여행 비서 </a>
+<br>
+<br>
+<br>
+<h1 align="">🎯 Projects & Achievements</h1>
 
-## ✈️ 소개
+## 🧳 <a href = "https://github.com/aiBE-chill-TEAM/travel-secretary/"> 여행 비서 </a>
+
+### ✈️ 소개
 
 ### 여행이 어렵다고? 이제 AI가 도와줄게!<br>
 #### 복잡한 여행 계획, 번거로운 동행 찾기, 이제 스마트하게 해결하세요.
@@ -26,4 +31,4 @@
 
 <hr />
 🏆 Solved.ac
-<p align="center"> <a href="https://solved.ac/pager12"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pager12" alt="Solved.ac 프로필"> </a> </p>
+<p> <a href="https://solved.ac/pager12"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pager12" alt="Solved.ac 프로필"> </a> </p>
